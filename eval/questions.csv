@@ -1,0 +1,57 @@
+question,label
+"What is 18% of 4,500?",MATH
+"Calculate 256 divided by 8",MATH
+"What is 12 times 7?",MATH
+"Compute the square root of 144",MATH
+"What is 2 to the power of 10?",MATH
+"15% off 80 is how much?",MATH
+"Add 1234 and 5678",MATH
+"What is 45 plus 55 minus 20?",MATH
+"How much is 3.5 multiplied by 4?",MATH
+"What is 100 divided by 7?",MATH
+"Calculate 9 factorial",MATH
+"What is 25% of 25% of 1600?",MATH
+"What's the remainder of 17 mod 5?",MATH
+"Convert 5 squared plus 12 squared",MATH
+"What is the sum of 10, 20, 30 and 40?",MATH
+"How many days of paid vacation do full-time employees get?",DOC_SEARCH
+"What is the refund window in the policy?",DOC_SEARCH
+"How many sick days are employees entitled to per year?",DOC_SEARCH
+"What is the mileage reimbursement rate?",DOC_SEARCH
+"How many days per week can I work remotely?",DOC_SEARCH
+"What is the home-office stipend amount?",DOC_SEARCH
+"Within how many days must expenses be submitted?",DOC_SEARCH
+"What are the core collaboration hours?",DOC_SEARCH
+"How long do I have to return company equipment after leaving?",DOC_SEARCH
+"What is the daily meal reimbursement limit during travel?",DOC_SEARCH
+"How many vacation days can carry over to next year?",DOC_SEARCH
+"Does the handbook require a doctor's note for sick leave?",DOC_SEARCH
+"What does the policy say about fully remote work approval?",DOC_SEARCH
+"Are shipping costs refundable according to the return policy?",DOC_SEARCH
+"How far in advance should PTO requests be submitted?",DOC_SEARCH
+"What is the standard end time of the working day in the handbook?",DOC_SEARCH
+"Explain RAG in one line",GENERAL
+"Who wrote Hamlet?",GENERAL
+"Write a haiku about autumn",GENERAL
+"What is the capital of France?",GENERAL
+"Explain the difference between a list and a tuple in Python",GENERAL
+"Give me three tips for a productive morning",GENERAL
+"What does API stand for?",GENERAL
+"Summarize the plot of Romeo and Juliet briefly",GENERAL
+"How does a transformer model work at a high level?",GENERAL
+"What's a good name for a coffee shop?",GENERAL
+"Translate 'good morning' into Spanish",GENERAL
+"What is the boiling point of water at sea level?",GENERAL
+"Recommend a book about machine learning",GENERAL
+"Explain what a vector database is",GENERAL
+"What year did the first iPhone come out?",GENERAL
+"How do I center a div in CSS?",GENERAL
+"What is photosynthesis?",GENERAL
+"What is the difference between TCP and UDP?",GENERAL
+"How much would a 20% tip be on a $4,500 invoice?",MATH
+"What is our company's policy on data confidentiality?",DOC_SEARCH
+"If I take 12 vacation days, how many do I have left from the annual allowance?",MATH
+"Explain what LangGraph is used for",GENERAL
+"What is 7 over 8 as a decimal?",MATH
+"Does the company allow working from home, and how often?",DOC_SEARCH
+"What's the meaning of life?",GENERAL

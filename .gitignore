@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets — NEVER commit credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local vector store / model caches
+.chroma/
+chroma_db/
+.cache/
+
+# Evaluation outputs (keep dir, ignore generated artifacts)
+eval/results/*.png
+eval/results/*.csv
+
+# Tooling caches
+.pytest_cache/
+.claude/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
