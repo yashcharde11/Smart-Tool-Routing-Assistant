@@ -159,19 +159,6 @@ rejected. See the injection-rejection tests in
 
 ---
 
-## Deployment
-
-> ⚠️ **Streamlit does NOT run on Vercel** (Vercel is for serverless/frontend;
-> Streamlit needs a persistent Python server).
-
-Deploy free on **[Streamlit Community Cloud](https://share.streamlit.io)** or
-**Hugging Face Spaces**:
-
-1. Push to GitHub with `requirements.txt`; keep the vector store small.
-2. Deploy via `share.streamlit.io`; add the Azure keys as **secrets**.
-3. Add the public URL here and to your resume.
-
----
 
 ## Resume bullet
 
